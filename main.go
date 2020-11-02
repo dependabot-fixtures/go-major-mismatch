@@ -1,4 +1,4 @@
-package test
+package go-major-mismatch
 
 import (
 	"rsc.io/quote"
