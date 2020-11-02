@@ -1,4 +1,4 @@
-module github.com/dependabot-fixtures/go-major-mismatch/v2
+module github.com/dependabot-fixtures/go-major-mismatch
 
 go 1.15
 
