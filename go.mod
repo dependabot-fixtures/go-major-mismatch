@@ -1,7 +1,5 @@
-module github.com/dependabot-fixtures/go-major-mismatch/v2
+module github.com/dependabot-fixtures/go-major-mismatch
 
-go 1.12
+go 1.15
 
-require (
-	github.com/BurntSushi/toml v0.3.1
-)
+require rsc.io/quote v1.5.0
